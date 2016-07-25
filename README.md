@@ -1,6 +1,6 @@
 RDPDemo
 =======
-
+[![Build status](https://ci.appveyor.com/api/projects/status/xm2d2p6g7omt0ou7?svg=true)](https://ci.appveyor.com/project/larrynung/rdpdemo)
 
 Reference
 ---------
